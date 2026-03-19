@@ -5,8 +5,14 @@
 - Alumno 2
 - Alumno 3
 - Alumno 4
-
-
+- Alumno 5
+- Alumno 6
+- Alumno 7
+- Alumno 8
+## Objetivo
+Practicar branching, fork, pull request y merge.
+---
+Alan
 1.- Que es un commit
 
 Es una captura de el estado de un archivo, este captura el cuando, quien y lo que se modifico.
@@ -18,24 +24,7 @@ se pueden revisar los cambios entre personas del grupo
 
 3.- como ayudan a entender
 Funciona como linea de tiempo que registra todo los cambios que se han realizado, los cuales todos los participantes pueden ver.
-
-
-
-	
-
-
-  
-- Alumno 5
-- Alumno 6
-- 
-- Alumno 7
-- Alumno 8
-
-<<<<<<< HEAD
-## Objetivo
-Practicar branching, fork, pull request y merge.
-
-
+---
 hola
 =======
 # 1.🌿 ¿Qué es una rama en Git?
@@ -72,4 +61,3 @@ En lugar de trabajar directamente en `main`:
 ## ✅ Conclusión
 
 Las ramas son fundamentales porque permiten trabajar de forma ordenada y segura, evitando errores en el código principal y facilitando el desarrollo en equipo.
->>>>>>> dfa02af4896abe70c269c308ea63c019b8622754
